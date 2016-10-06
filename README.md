@@ -12,3 +12,5 @@ Year | Group | Contribution
 2016 | Astronomy Club | Puzzles, Workshops & Booth
 2016 | Science Students' Research Council | Organistion, Puzzles, Workshops & Booth
 2016 | Math Appreciation Club | Puzzles, Workshops & Booth
+
+## NOTE: This was initially used in conjunction with our custom webapp to track everyone's achievements!
